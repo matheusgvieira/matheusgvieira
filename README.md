@@ -1,16 +1,15 @@
 ### Hi there, I'm Matheus Gois Vieira
 
+<br>
+<a href="https://www.linkedin.com/in/matheus-gois-vieira-10522817b/" target="_blank"><img src="https://img.shields.io/badge/-Matheus Gois-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto: matheusmaxi9.0@gmail.com"><img src="https://img.shields.io/badge/-matheusmaxi9.0@gmail.com-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://t.me/mathgvieira" target="_blank"><img src="https://img.shields.io/badge/-mathgvieira-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 ## I'm a undergraduate in Eletronics Engineering in University of Brasília
 
 - <img  alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> I'm currently getting better in Python.
 - 🇧🇷 Portuguese is my native language and my english is in instrumental.
-- ⚡ Planning to learn C++ and Java.
-
-### Connect with me:
-
-[<img  alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+- ⚡ Planning to learn C++ and Javascript.
 
 ### Languages and Tools:
 
