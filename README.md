@@ -8,8 +8,9 @@
 ## I'm a undergraduate in Eletronics Engineering in University of Brasília
 
 - <img  alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> I'm currently getting better in Python.
+- <img  alt="Nodejs" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> I'm currently getting better in Nodejs.
 - 🇧🇷 Portuguese is my native language and my english is in instrumental.
-- ⚡ Planning to learn C++ and Javascript.
+- ⚡ Planning to learn C++.
 
 ### Languages and Tools:
 
