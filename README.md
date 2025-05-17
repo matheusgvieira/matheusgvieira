@@ -20,6 +20,7 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/python.svg" />
+<img align="left" alt="C language" width="40px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go/go.svg" />
 <img align="left" alt="C language" width="40px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" />
 <img align="left" alt="C language" width="40px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
